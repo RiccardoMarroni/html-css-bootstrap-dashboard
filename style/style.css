@@ -42,3 +42,10 @@ main{
 }
 
 
+.square-blue{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: lightblue
+}
+
